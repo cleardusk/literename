@@ -1,2 +1,2 @@
 # literename
-change the doc name according to the title.
+Change the doc file name according to the title.
